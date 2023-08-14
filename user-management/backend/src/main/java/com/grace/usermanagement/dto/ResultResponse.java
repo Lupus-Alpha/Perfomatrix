@@ -1,4 +1,4 @@
-package com.grace.base.dto;
+package com.grace.usermanagement.dto;
 
 import lombok.Data;
 

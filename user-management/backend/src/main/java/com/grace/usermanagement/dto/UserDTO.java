@@ -1,8 +1,9 @@
-package com.grace.base.dto;
+package com.grace.usermanagement.dto;
 
-import com.grace.base.entity.Role;
-import com.grace.base.entity.User;
-import com.grace.base.entity.UserRole;
+
+import com.grace.usermanagement.entity.Role;
+import com.grace.usermanagement.entity.User;
+import com.grace.usermanagement.entity.UserRole;
 import lombok.Data;
 
 import java.util.List;

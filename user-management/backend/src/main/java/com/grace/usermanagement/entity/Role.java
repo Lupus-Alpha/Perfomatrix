@@ -1,4 +1,4 @@
-package com.grace.base.entity;
+package com.grace.usermanagement.entity;
 
 import lombok.Data;
 
